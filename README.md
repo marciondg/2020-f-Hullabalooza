@@ -1,3 +1,3 @@
-# Proyecto vacío
+# Practica parcial funcional : Hullabalooza
 
-Este repo fue creado para tener un nuevo proyecto Stack ya configurado.
+Enunciado: https://docs.google.com/document/d/18wXku4XZ2gZJtLqbx2DG13PZQwYdjsfT0D40cn2RwoI/edit#
